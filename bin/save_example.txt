@@ -1,0 +1,12 @@
+** This is an example scene... **
+** You can copy what is below to the "save.txt" file that is in the same directory as this file. **
+
+background_color: black
+
+0: cube -3 -3 0 1 1 1 0 redCube
+1: cube -2 -2 0 1 1 1 45 greenCube
+2: cube -1 -1 0 1 1 1 90 blueCube
+3: cube 0 0 0 1 1 1 135 yellowCube
+4: cube 1 1 0 1 1 1 180 cyanCube
+5: cube 2 2 0 1 1 1 225 magentaCube
+6: cube 3 3 0 1 1 1 270 orangeCube
