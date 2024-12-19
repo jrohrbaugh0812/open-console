@@ -1,6 +1,11 @@
 # ninja log v5
 20	415	7563269174934795	CMakeFiles/OpenConsole.dir/common/tangentspace.cpp.obj	5dde0186d62786c
-14	522	7563269175994730	CMakeFiles/OpenConsole.dir/common/objloader.cpp.obj	41d7b2afdccfad75
-9	760	7563269178377489	CMakeFiles/OpenConsole.dir/common/utils.cpp.obj	5d0029d1982ca435
 3	1313	7563269183890740	CMakeFiles/OpenConsole.dir/main.cpp.obj	9799d130a89873d1
+14	522	7563269175994730	CMakeFiles/OpenConsole.dir/common/objloader.cpp.obj	41d7b2afdccfad75
 1313	1826	7563269188732972	C:/Users/rohrb/Documents/Projects/OpenConsole/bin/OpenConsole.exe	cfbafafc9f8c10de
+9	760	7563269178377489	CMakeFiles/OpenConsole.dir/common/utils.cpp.obj	5d0029d1982ca435
+11	524	7563312825125135	CMakeFiles/OpenConsole.dir/common/tangentspace.cpp.obj	5dde0186d62786c
+8	587	7563312825744153	CMakeFiles/OpenConsole.dir/common/objloader.cpp.obj	41d7b2afdccfad75
+5	696	7563312826834829	CMakeFiles/OpenConsole.dir/common/utils.cpp.obj	5d0029d1982ca435
+2	1013	7563312829996928	CMakeFiles/OpenConsole.dir/main.cpp.obj	9799d130a89873d1
+1013	1396	7563312833172311	C:/Users/rohrb/Documents/Projects/OpenConsole/bin/OpenConsole.exe	cfbafafc9f8c10de

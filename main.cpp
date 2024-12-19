@@ -540,7 +540,7 @@ void commandListener() {
         } else if (command == "color") {  // change color
             int index;
             string col_name;
-            cout << "Enter object index and color name ";
+            cout << "Enter object index and color name: ";
             cin >> index >> col_name;
 
             // Check if input was valid
