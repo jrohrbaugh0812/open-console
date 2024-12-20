@@ -54,29 +54,11 @@ You can type ```help``` to generate a list of all the commands. Here are some of
 
 ### Example
 
-```
-Enter command: add 
-Enter type of shape, position (x y z): cube 0 0 0
+#### Start of Program
+![Program Start Example](./images/program_start.png)
 
-Enter command: list 
-Objects in the scene: 
-0: Shape: cube, Position: (0, 0, 0), Scale: (1, 1, 1), Angle: 0, Color: redCube
-
-Enter command: move 
-Enter object ID and movement vector (dx dy dz): 0 1 1 1
-
-Enter command: background 
-Enter background color (e.g., red, blue, green): blue
-
-Enter command: color 
-Enter object index and color name: 0 blueCube
-Assigned color 'blueCube' to object ID 0
-
-Enter command: delete 
-Enter index of object you would like to delete: 0
-
-Enter command: quit
-```
+#### Using the Program
+![Using the Program](./images/program_example.png)
 
 ### Note
 There are five models currently avaliable to be added and manipulated: cube, torus, cylinder, sphere, and cone.
